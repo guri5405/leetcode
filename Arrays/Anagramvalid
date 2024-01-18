@@ -1,4 +1,4 @@
-class Solution {
+class Anagramvalid{
     public boolean isAnagram(String s, String t) {
         Map<Character, Integer> count = new HashMap<>();
         
@@ -21,4 +21,7 @@ class Solution {
         
         return true;
     }
+public static void main(String [] args){
+String s = "cat";
+String t = "act";
 }
