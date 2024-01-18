@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.HashMap;
 
 class Anagramvalid{
   // Anagram valid for string valid true or false in given strings 
