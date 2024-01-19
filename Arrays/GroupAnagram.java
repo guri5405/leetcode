@@ -22,3 +22,4 @@ class Solution {
     String strs = {"eat","tea","tan","ate","nat","bat"};
     System.out.println(groupAnagram(strs));
 }
+}
