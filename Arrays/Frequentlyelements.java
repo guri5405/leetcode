@@ -24,7 +24,7 @@ class Frequentlyelements {
         return ans;
     }
   public static void main(String [] args){
-     int nums = {1,1,1,2,2,3}, k = 2;
+     int nums[] = {1,1,1,2,2,3}, k = 2;
      System.out.println(topKFrequent(nums,k));
   }
 }
